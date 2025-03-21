@@ -7,6 +7,10 @@ export default {
   Author: '朋',
   Motto: '路就在脚下！',
   Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2078148078&s=640',
+  // Cover 网站缩略图
+  Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
+  // 网站创建时间
+  CreateTime: '2021-09-01',
   // 导航栏 (新窗口打开 newWindow: true)
   Navs: [
     { text: '朋友', link: '/links', icon: '/assets/images/svg/Navs/links.svg' },
@@ -25,9 +29,6 @@ export default {
     // { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: '/assets/images/svg/WebSites/img.svg' },
     // { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: '/assets/images/svg/WebSites/analytics.svg' },
   ],
-  // Cover 使用绝对路径
-  Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
-  CreateTime: '2021-09-01',
   // DNS预解析地址
   DNSOptimization: [
     'https://i0.wp.com',
